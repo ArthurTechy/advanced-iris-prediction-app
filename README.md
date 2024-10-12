@@ -93,10 +93,8 @@ Contributions to improve the app are welcome. Please feel free to submit a Pull 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Aknowledgement
-
-Image by myungho lee from Pixabay
-
 ## Contact
 
 For any queries or suggestions, please open an issue on the GitHub repository.
+
+View the app here: [Link](https://advanced-iris-prediction-app.streamlit.app/)
